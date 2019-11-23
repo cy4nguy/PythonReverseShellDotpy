@@ -9,7 +9,7 @@ from os import chdir, getcwd, getlogin, remove
 
 if __name__ == '__main__':                          # run cods blow only if app got calld by user
 
-    Server  = socket(AF_INET,SOCK_STREAM)   # setting up a TCP connection 
+    Client  = socket(AF_INET,SOCK_STREAM)   # setting up a TCP connection 
     HOST    = "YOUR IP"                     # our system IP address 
     PORT    = 4556                          # random  port that is not in use
     
