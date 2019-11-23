@@ -12,6 +12,8 @@ Tested On: Windows 10 / Windows7 <br>
 Suport : +Windows XP<br>
 Date of Publish : 11/23/2019 <br>
 Last Update : 11/23/2019 <br>
+Features: Send/get files, get live screenshot form user<br>
+basic system commands, and more. <br>
 Went Find out about what is Revers Shell<br>
 
 <pre>   When Find out about what is Revers Shell ? -> <a href="https://en.wikipedia.org/wiki/Shell_shoveling">Click Hare</a> <- </pre><br><br>
